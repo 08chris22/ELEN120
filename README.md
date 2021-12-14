@@ -1,0 +1,2 @@
+# ELEN120
+Microprocessor System Design: Design and analysis of microprocessor-based systems for embedded applications. Assembly Language programming. Integration of digital and analog input/output devices with microprocessor hardware and software. Low-level programming techniques specialized for hardware interfacing and precise control of timing. Structure and operation of embedded computing platforms.
